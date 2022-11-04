@@ -1,0 +1,10 @@
+(sym_lib_table
+  (lib (name BCD_Semiconductor)(type Legacy)(uri ${KIPRJMOD}/BCD_Semiconductor.lib)(options "")(descr ""))
+  (lib (name Microchip)(type Legacy)(uri ${KIPRJMOD}/Microchip.lib)(options "")(descr ""))
+  (lib (name TI)(type Legacy)(uri ${KIPRJMOD}/TI.lib)(options "")(descr ""))
+  (lib (name LittleFuse)(type Legacy)(uri ${KIPRJMOD}/LittleFuse.lib)(options "")(descr ""))
+  (lib (name Inolux)(type Legacy)(uri ${KIPRJMOD}/Inolux.lib)(options "")(descr ""))
+  (lib (name WS2812D)(type Legacy)(uri ${KIPRJMOD}/WS2812D.lib)(options "")(descr ""))
+  (lib (name Vishay)(type Legacy)(uri ${KIPRJMOD}/Vishay.lib)(options "")(descr ""))
+  (lib (name Hi-Link)(type Legacy)(uri ${KIPRJMOD}/Hi-Link.lib)(options "")(descr ""))
+)
